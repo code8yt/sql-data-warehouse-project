@@ -44,4 +44,4 @@ This project is licensed under the [MIT License](https://www.google.com/search?q
 
 ## About Me
 
-Hi there! I'm **Ayuba Alhassan**, also known as **Code8**. I'm learning Data Analytics & Data Engineering  from Baraaand passionate on a mission to share knowledge!
+Hi there! I'm **Ayuba Alhassan**, also known as **Code8**. I'm learning Data Analytics & Data Engineering  from Baraa and passionate on a mission to share knowledge!
